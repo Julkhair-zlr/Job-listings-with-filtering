@@ -45,4 +45,4 @@ Open [http://localhost:5173/] (http://localhost:5174/) to View in your browser.
 ### Links
 
 - Source code URL: [@github](https://github.com/Julkhair-zlr/Job-listings-with-filtering)
-- Live Site URL: [@github pages]()
+- Live Site URL: [@github pages](https://main--stately-lily-d45d62.netlify.app/)
