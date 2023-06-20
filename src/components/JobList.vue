@@ -204,7 +204,7 @@ export default {
   max-height: 23%;
   /* overflow-y: auto; */
 }
-@media screen and (max-width: 532px) {
+@media screen and (max-width: 658px) {
   .card {
     max-height: 80%;
   }
@@ -232,7 +232,7 @@ export default {
   display: flex;
   align-items: center;
   gap: 2%;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 }
 .containerNew {
   background-color: #5ca4a3;
