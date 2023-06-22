@@ -40,7 +40,7 @@ npm run dev
 ```
 
 Runs the app in development mode. \
-Open [http://localhost:5173/] (http://localhost:5174/) to View in your browser.
+Open [http://localhost:5173/] (http://localhost:5173/) to View in your browser.
 
 ### Links
 
